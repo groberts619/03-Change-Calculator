@@ -1,0 +1,38 @@
+body {
+	background: url("img/light_money.png") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h3 {
+	font-family: 'Asset', cursive;
+	color: white;
+	text-shadow:
+     	3px 3px 0 #000,
+     	-1px -1px 0 #000,  
+      	1px -1px 0 #000,
+      	-1px 1px 0 #000,
+       	1px 1px 0 #000;
+    text-align: center;
+}
+
+p {
+	color: black;
+}
+
+div {
+	color: white;
+}
+
+label {
+	font-size: 17px;
+	font-weight: bold;
+	color: black;
+}
+
+#tender {
+	text-align: center;
+}
+
